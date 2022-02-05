@@ -35,7 +35,7 @@
 <br/>
 
 ### 🌌  &nbsp;Top Project 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=vamosgs&repo=react-preloaders&theme=react "/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vamosgs&repo=react-preloaders&theme=react "/>
 
 
 
