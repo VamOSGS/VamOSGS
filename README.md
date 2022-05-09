@@ -2,7 +2,7 @@
 <h3 align="center">Javascript developer and student from Armenia</h3>
 	
 <p align="center"> 
-	<a align="center" href="https://vamosgs.me/"><img src="https://img.shields.io/badge/vamosgs.github.io-website-lightgrey?style=flat-square&logo=Accenture"/></a>
+	<a align="center" href="https://vamosgs.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/></a>
 </p>
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/vamosgs?tab=repositories)
