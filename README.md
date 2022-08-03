@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gegham</h1>
-<h3 align="center">Javascript developer from Armenia</h3>
+<h3 align="center">Javascript developer</h3>
 	
 <p align="center"> 
 	<a align="center" href="https://vamosgs.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/></a>
@@ -57,7 +57,7 @@
 <p align="left">
 <a href="https://github.com/vamosgs">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vamosgs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vamosgs&layout=compact&langs_count=8&theme=react "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vamosgs&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
