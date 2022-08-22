@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gegham</h1>
-<h3 align="center">Javascript developer</h3>
+<h3 align="center">Software Developer</h3>
 	
 <p align="center"> 
 	<a align="center" href="https://vamosgs.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vamosgs?tab=repositories)
+- 👨‍💻 Some of my projects are available at [github](https://github.com/vamosgs?tab=repositories)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** and **Serverless**
 
 - 📫 How to reach me **gegham.samvelyan@hotmail.com**
 
