@@ -12,6 +12,12 @@
 - 📫 How to reach me **gegham.samvelyan@hotmail.com**
 
 
+<br>
+ ### 🌌  &nbsp;Top Project 
+<a href="https://github.com/VamOSGS/react-preloaders">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vamosgs&repo=react-preloaders&theme=react"/>
+</a> 
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -65,10 +71,5 @@
 <br/>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-<br>
- ### 🌌  &nbsp;Top Project 
-<a href="https://github.com/VamOSGS/react-preloaders">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vamosgs&repo=react-preloaders&theme=react"/>
-</a> 
 
 
