@@ -12,6 +12,27 @@
 - 📫 How to reach me **gegham.samvelyan@hotmail.com**
 
 
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/vamosgs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vamosgs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vamosgs&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+
+<a href="https://linkedin.com/in/vamosgs"><img src="https://img.shields.io/badge/-vamosgs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gegham.samvelyan@hotmail.com"><img src="https://img.shields.io/badge/-gegham.samvelyan@hotmail.com-026dbd?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/VAMOSGSvlv"><img src="https://img.shields.io/badge/-@VAMOSGSvlv-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://t.me/vamosgs"><img src="https://img.shields.io/badge/-@VamOSGS-32aade?style=flat&logo=Telegram&logoColor=white"/></a>
+</p>
+
 	
 ### 🛠 &nbsp;Languages and Tools
 
@@ -50,24 +71,4 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vamosgs&repo=react-preloaders&theme=react"/>
 </a> 
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/vamosgs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vamosgs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vamosgs&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-
-<a href="https://linkedin.com/in/vamosgs"><img src="https://img.shields.io/badge/-vamosgs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gegham.samvelyan@hotmail.com"><img src="https://img.shields.io/badge/-gegham.samvelyan@hotmail.com-026dbd?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/VAMOSGSvlv"><img src="https://img.shields.io/badge/-@VAMOSGSvlv-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://t.me/vamosgs"><img src="https://img.shields.io/badge/-@VamOSGS-32aade?style=flat&logo=Telegram&logoColor=white"/></a>
-</p>
 
