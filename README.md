@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer</h3>
 	
 <p align="center"> 
-	<a align="center" href="https://vamosgs.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/></a>
-	<a align="center" href="https://gegh.am/"><img src="https://img.shields.io/badge/gegh.am-website-lightgrey?style=flat-square&logo=Accenture"/></a>
+	<a align="center" target="_blank" href="https://vamosgs.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/></a>
+	<a align="center" target="_blank" href="https://gegh.am/"><img src="https://img.shields.io/badge/gegh.am-website-lightgrey?style=flat-square&logo=Accenture"/></a>
 </p>
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/vamosgs?tab=repositories)
